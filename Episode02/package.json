@@ -1,0 +1,12 @@
+{
+  "name": "episode02",
+  "version": "1.0.0",
+  "description": "this is namaste react by Akashay Saini ",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Waseem Adil",
+  "license": "ISC"
+}
