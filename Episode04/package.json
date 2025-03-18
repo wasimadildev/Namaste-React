@@ -4,7 +4,9 @@
   "description": "this is namaste react by Akashay Saini ",
 
   "scripts": {
-    "test": "jest"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+    
   },
   "keywords": [],
   "author": "Waseem Adil",
